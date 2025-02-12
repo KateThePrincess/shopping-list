@@ -1,0 +1,6 @@
+{
+  "appId": "com.shoppingly.app",
+  "appName": "shoppingly",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
